@@ -1,0 +1,2 @@
+# faq
+how i operate
